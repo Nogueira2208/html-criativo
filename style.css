@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #f500fd;
-    color: white;
+    color: rgb(255, 0, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -35,7 +35,7 @@ body {
 
 #escola{
     background-image: linear-gradient(#ffb6f3,#f816f8);
-    color: white;
+    color: rgb(255, 0, 221);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,7 +81,7 @@ body {
 }
 
 .rodape{
-    background-color: rgb(255, 0, 221);
+    background-color: rgb(255, 255, 255);
     text-align: center;
 }
 
