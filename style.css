@@ -16,6 +16,7 @@ body {
 
 .cabecalho-imagem{
     width: 10%;
+    align-items: center;
 }
 
 .cabecalho-lista-item {
@@ -52,12 +53,13 @@ body {
 }
 
 #estudante{
-    background-image: linear-gradient(#ff00d4,#ff91ff);
+    background-image: linear-gradient(#ff5cff,#ff00d4);
     padding: 24px 0;
 }
 
 
 .estudante-imagem{
+   height: 150; 
     width: 200px;
 }
 
@@ -82,7 +84,7 @@ body {
 }
 
 .rodape{
-    background-color: rgb(252, 77, 208);
+    background-color: rgb(255, 0, 191);
     text-align: center;
 }
 
